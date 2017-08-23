@@ -1,0 +1,6 @@
+[gerritforge]
+name=GerritForge repository for Gerrit Code Review
+mirrorlist=http://mirrorlist.gerritforge.com/yum
+enabled=1
+gpgcheck=0
+gpgkey=file:///etc/pki/rpm-gpg/RPM-GPG-KEY-GerritForge
